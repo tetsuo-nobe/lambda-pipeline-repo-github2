@@ -12,5 +12,5 @@ Resources:
         MyTimeApiGithub2:
           Type: Api
           Properties:
-            Path: /Time
+            Path: /Time2
             Method: GET
